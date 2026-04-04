@@ -1,15 +1,23 @@
-📊 Power BI Project: Pizza Sales Performance Dashboard
+# Pizza Sales Performance Dashboard
 
-I recently developed an interactive dashboard to analyze sales performance, product trends, and operational efficiency.
+## Overview
+This project analyzes pizza sales data to track business performance, identify trends, and support operational decision-making.
 
-🔍 Key insights:
-• Identified top-performing locations contributing most to revenue
-• Analyzed product-level performance to highlight key revenue drivers
-• Tracked sales trends over time for better forecasting
+## Key Features
+- KPI tracking (Revenue, Cost, Contribution Margin)
+- Location-based performance analysis
+- Product-level insights
+- Time-based trend analysis
 
-💡 This project strengthened my skills in:
-Power BI | Data Visualization | Business Analysis
+## Key Insights
+- Kolding is the top-performing location by contribution margin
+- Top-selling pizzas contribute significantly to total revenue
+- Certain locations show lower performance, indicating optimization opportunities
 
-📂 GitHub: [Add link]
+## Tools Used
+- Power BI
+- Excel
 
-#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization
+## Files
+- dashboard.pbix
+- dataset.csv
