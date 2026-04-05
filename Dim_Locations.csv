@@ -1,0 +1,4 @@
+location_id;location_name;kitchen_capacity;restaurant_capacity;latitude;longitude
+1;Kolding;300;20;55,4904;9,4722
+2;Middelfart;200;15;55,5053;9,74022
+3;Fredericia;250;10;55,568;9,742
